@@ -2,6 +2,7 @@ import torch
 import os
 import logging
 from collections import OrderedDict
+import gdown
 
 from timm.models import load_checkpoint
 
